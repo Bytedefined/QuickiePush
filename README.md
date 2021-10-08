@@ -1,5 +1,5 @@
 # QuickiePush
-A simple bash command to make pushing to a GIT repository a lot less painful and faster!
+A simple bash script to make pushing to a GIT repository a lot less painful and faster!
 
 ## How do I use this?
 Make sure that you have fully setup GIT in your local repository before continuing!
